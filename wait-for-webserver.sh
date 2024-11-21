@@ -8,3 +8,5 @@ until curl http://localhost:8080/; do
 done
   
 >&2 echo "Webservice is up - continuing"
+
+
